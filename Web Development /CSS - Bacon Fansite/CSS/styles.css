@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+  font-size: 150px;
+}
+
+.bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+.semisircular {
+  border-radius: 100%;
+}
+
+.bacon:hover {background-color: gold;
+
+}
